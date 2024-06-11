@@ -1,0 +1,1 @@
+execute as @e[tag=!have_size] run function natural_size:functions/set_size
